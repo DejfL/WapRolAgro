@@ -4896,6 +4896,7 @@ input[type="submit"].btn-block {
 
 .card-img-top {
     width: 100%;
+    max-height: 270px;
     border-top-left-radius: calc(0.25rem - 1px);
     border-top-right-radius: calc(0.25rem - 1px);
 }
