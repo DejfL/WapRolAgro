@@ -4896,7 +4896,6 @@ input[type="submit"].btn-block {
 
 .card-img-top {
     width: 100%;
-    max-height: 270px;
     border-top-left-radius: calc(0.25rem - 1px);
     border-top-right-radius: calc(0.25rem - 1px);
 }
@@ -6707,7 +6706,7 @@ a.close.disabled {
     left: 15%;
     z-index: 10;
     padding-top: 20px;
-    padding-bottom: 70px;
+    padding-bottom: 20px;
     color: #fff;
     text-align: center;
 }
